@@ -26,10 +26,10 @@ author:
   name             : "Dan Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD, Lecturer, Wuhan Textile University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Wuhan, China"
+  employer         : "Wuhan Textile University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "danchenzqf@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5611-1541"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +52,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
