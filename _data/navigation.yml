@@ -11,9 +11,6 @@ main:
     
   - title: "Datasets"
     url: /datasets/
-        
-  - title: "Gallery and Tools"
-    url: /gallery/
     
   - title: "Contact"
     url: /contact/
