@@ -12,7 +12,7 @@ My name is Dan Chen (陈单), I received my PhD degree in Control Science and En
 
 My research interests involve complex networks, information science, deep learning, and graph neural networks.
 
-Email: danchen@wtu.edu.cn; danchenzqf@gmail.com<br>  
+Email: danchen@wtu.edu.cn; danchenzqf@gmail.com <br>  
 [Google Scholar](https://scholar.google.com/citations?user=Qm2XMekAAAAJ&hl=zh-CN)<br>
 Orcid: [0000-0001-6772-3017](https://orcid.org/0000-0001-5611-1541)
 
