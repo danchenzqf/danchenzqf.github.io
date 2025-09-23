@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
-My name is Dan Chen (陈单), I received my PhD degree in Control Science and Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in March 2024. Before that, I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in June 2019. I am a lecturer at the School of Mathematics and Statistics, Wuhan Textile University, Wuhan, China.
-</div>
+<div style="text-align: justify;">My name is Dan Chen (陈单), I received my PhD degree in Control Science and Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in March 2024. Before that, I received my M.S. degree in Circuits and Systems from [Hubei University](https://www.hubu.edu.cn/), Wuhan, China, in June 2019. I am a lecturer at the School of Mathematics and Statistics, Wuhan Textile University, Wuhan, China.</div>
 
 My research interests involve complex networks, information science, deep learning, and graph neural networks.
 
