@@ -7,17 +7,20 @@ redirect_from:
   - /publications.html
 ---
 
+15、[Community Detection-Based Renormalization Method for Power Grids Topology](https://ieeexplore.ieee.org/document/11268953)<br>
+**D. Chen**, H. Su, and H. Zhang. IEEE Transactions on Industrial Informatics, 2026, 22(3): 1916-1926
+
 14、[Extracting High-Fidelity Smaller Scale Subgraphs of Complex Networks by Edge-Reinforced Random Walk](https://ieeexplore.ieee.org/abstract/document/10500438)<br>
-**D. Chen** and H. Su. IEEE Transactions on Computational Social Systems, 2024, 11(5): 6181-6191. [Code](https://github.com/dange-academic/ERRW).
+**D. Chen** and H. Su. IEEE Transactions on Computational Social Systems, 2024, 11(5): 6181-6191. [Code](https://github.com/dange-academic/ERRW)
 
 13、[Identification of Influential Nodes in Complex Networks With Degree and Average Neighbor Degree](https://ieeexplore.ieee.org/abstract/document/10145778)<br>
-**D. Chen** and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742. [Code](https://github.com/chend2023/identifying_important_nodes).
+**D. Chen** and H. Su. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, 13(3): 734-742. [Code](https://github.com/chend2023/identifying_important_nodes)
 
 12、[Self-similarity of complex networks under centrality-based node removal strategy](https://iopscience.iop.org/article/10.1088/1674-1056/acd3e2/meta)<br>
 **D. Chen**, D. Cai, and H. Su. Chinese Physics B, 2023, 32: 098903
 
 11、[Scaling Properties of Scale-Free Networks in Degree-Thresholding Renormalization Flows](https://ieeexplore.ieee.org/abstract/document/10100895)<br>
-**D. Chen**, D. Cai and H. Su. IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528. [Code](https://github.com/cdzqf/DTR).
+**D. Chen**, D. Cai and H. Su. IEEE Transactions on Network Science and Engineering, 2023, 10(6): 3519-3528. [Code](https://github.com/cdzqf/DTR)
 
 10、[Possible origin of scaling laws in preferential attachment growth networks](https://www.sciencedirect.com/science/article/abs/pii/S0577907321002616)<br>
 S. Zheng, **D. Chen**, G.-J. Pan. Chinese Journal of Physics, 2022, 77: 1610-1617
@@ -29,7 +32,7 @@ S. Zheng, **D. Chen**, G.-J. Pan. Chinese Journal of Physics, 2022, 77: 1610-161
 **D. Chen**, H. Su, X. Wang, et al. Phys. Rev. E, 2021, 104(3): 034304
 
 7、[Identification of network topology variations based on spectral entropy](https://ieeexplore.ieee.org/abstract/document/9409704)<br>
-H. Su, **D. Chen**, G.-J. Pan, et al. IEEE Transactions on Cybernetics, 2021, 52(10): 10468-10478. [Code](https://github.com/cdzqf/Spectral-entropy).
+H. Su, **D. Chen**, G.-J. Pan, et al. IEEE Transactions on Cybernetics, 2021, 52(10): 10468-10478. [Code](https://github.com/cdzqf/Spectral-entropy)
 
 6、[Framework based on communicability to measure the similarity of nodes in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302279)<br>
 **D. Chen**, H. Su, G.-J. Pan. Information Sciences, 2020, 524: 241-253
@@ -47,4 +50,4 @@ D.-D. Shi, **D. Chen**, and G.-J. Pan. Phys. Rev. E, 2020, 101(4): 042305
 **陈单**, 石丹丹, 潘贵军. Acta Phys. Sin.(物理学报), 2019, 68(11): 118901. doi: 10.7498/aps.68.20190230
 
 1、[Complex network comparison based on communicability sequence entropy](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012319)<br>
-**D. Chen**, D.-D. Shi, M. Qin, et al. Phys. Rev. E, 2018, 98(1): 012319. [Code](https://github.com/dange-academic/communicability-sequence-entropy).
+**D. Chen**, D.-D. Shi, M. Qin, et al. Phys. Rev. E, 2018, 98(1): 012319. [Code](https://github.com/dange-academic/communicability-sequence-entropy)
