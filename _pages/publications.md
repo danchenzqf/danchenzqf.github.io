@@ -7,6 +7,9 @@ redirect_from:
   - /publications.html
 ---
 
+16、[Resistance distance of spatially embedded networks](https://www.sciencedirect.com/science/article/abs/pii/S0960077926010672?via%3Dihub)<br>
+X. Wu, **D. Chen**, C. Han, G. Pan, and J. Liu. Chaos, Solitons and Fractals, 2026, 212: 118926
+
 15、[Community Detection-Based Renormalization Method for Power Grids Topology](https://ieeexplore.ieee.org/document/11268953)<br>
 **D. Chen**, H. Su, and H. Zhang. IEEE Transactions on Industrial Informatics, 2026, 22(3): 1916-1926
 
