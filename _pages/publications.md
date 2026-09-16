@@ -41,7 +41,7 @@ H. Su<sup>*</sup>, **D. Chen**, G.-J. Pan, et al. IEEE Transactions on Cyberneti
 **D. Chen**, H. Su<sup>*</sup>, G.-J. Pan. Information Sciences, 2020, 524: 241-253
 
 5、[Characterization of network complexity by communicability sequence entropy and associated Jensen-Shannon divergence](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.042305)<br>
-D.-D. Shi, **D. Chen**, and G.-J. Pan. Phys. Rev. E, 2020, 101(4): 042305
+D.-D. Shi, **D. Chen**, and G.-J. Pan<sup>*</sup>. Phys. Rev. E, 2020, 101(4): 042305
 
 4、[Quantifying complex network information based on communicability sequence entropy (in Chinese)](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2019-0029)<br>
 石丹丹, **陈单<sup>*</sup>**, et al. Sci Sin-Phys Mech Astron(中国科学: 物理学 力学 天文学), 2019, 49: 070502, doi: 10.1360/SSPMA-2019-0029
